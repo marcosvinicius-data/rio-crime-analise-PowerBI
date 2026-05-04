@@ -34,6 +34,12 @@ images/ → imagens do dashboard
 
 Visualização do dashboard desenvolvido no Power BI:
 
+[Ver print do dashboard](docs/images/dashboard.png)
+
+
+
+Visualização do dashboard desenvolvido no Power BI:
+
 [PDF do Dashboard](redmi/dashboard_dados_rio.pdf)
 
 ## 📄 Documentação completa
