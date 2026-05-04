@@ -16,11 +16,12 @@ Analisar dados de criminalidade no Rio de Janeiro para identificar padrões, ten
 
 ## 📂 Estrutura do projeto
 
-data/ → arquivos de dados utilizados na análise
-excel/ → tratamento e preparação dos dados
-powerbi/ → arquivos `.pbix` do dashboard
-docs/ → documentação do projeto
-images/ → imagens do dashboard
+data/ → arquivos de dados utilizados na análise  
+excel/ → tratamento e preparação dos dados  
+powerbi/ → arquivos `.pbix` do dashboard  
+docs/case → documentação do projeto  
+docs/images/ → imagens do dashboard  
+redmi/ → versão em PDF do dashboard e o arquivo pbix 
 
 ## 📈 Análises realizadas
 
