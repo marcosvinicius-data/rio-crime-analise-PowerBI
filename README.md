@@ -39,8 +39,6 @@ Visualização do dashboard desenvolvido no Power BI:
 
 
 
-Visualização do dashboard desenvolvido no Power BI:
-
 [PDF do Dashboard](redmi/dashboard_dados_rio.pdf)
 
 ## 📄 Documentação completa
