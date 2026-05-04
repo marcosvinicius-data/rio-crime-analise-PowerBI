@@ -37,7 +37,7 @@ Visualização do dashboard desenvolvido no Power BI:
 
 ![Dashboard](docs/case/image/panorama-geral.png)
 
-
+## Dashboard em PDF
 
 [PDF do Dashboard](redmi/dashboard_dados_rio.pdf)
 
