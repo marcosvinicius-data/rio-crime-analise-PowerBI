@@ -35,7 +35,7 @@ redmi/ → versão em PDF do dashboard e o arquivo pbix
 
 Visualização do dashboard desenvolvido no Power BI:
 
-[Ver print do dashboard](docs/images/panorama-geral.png)
+![Dashboard](docs/case/image/panorama-geral.png)
 
 
 
