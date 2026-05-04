@@ -31,6 +31,24 @@ redmi/ → versão em PDF do dashboard e o arquivo pbix
 * Evolução temporal dos crimes
 * Comparação entre períodos
 
+## 💡 Insights encontrados
+
+A análise dos dados revelou padrões relevantes sobre a criminalidade no Rio de Janeiro:
+
+* A concentração de ocorrências varia significativamente entre as regiões, com destaque para áreas urbanas mais densas.
+
+* Determinados tipos de crime apresentam maior incidência em regiões específicas, indicando padrões geográficos bem definidos.
+
+* A análise temporal mostra oscilações ao longo do tempo, com períodos de aumento e redução nas ocorrências.
+
+* A classificação por nível de risco permitiu identificar regiões prioritárias para ações de segurança pública.
+
+* A utilização de percentis destacou regiões com comportamento fora do padrão, auxiliando na identificação de áreas críticas.
+
+## 🎯 Conclusão
+
+A análise permitiu identificar padrões relevantes na distribuição da criminalidade no Rio de Janeiro, destacando regiões críticas e variações ao longo do tempo. Esses insights podem auxiliar na definição de estratégias mais direcionadas para segurança pública.
+
 ## 🖼️ Dashboard
 
 Visualização do dashboard desenvolvido no Power BI:
